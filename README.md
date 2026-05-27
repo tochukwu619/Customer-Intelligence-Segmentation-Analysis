@@ -9,7 +9,7 @@ The goal is to transform raw customer records into a compelling, insight-driven 
 
 
 ---
-Read the report on [Medium]()
+Read the report on [Medium](https://medium.com/@prof.tripled619/the-silent-exit-why-10-000-customers-stopped-buying-and-how-to-bring-them-back-621b6ada1a50)
 
 Interact with the [live dashboard here](https://app.powerbi.com/view?r=eyJrIjoiY2ZlMDliNTgtYTI1OC00OTUxLTk4YzMtNDRhODZhNjZjOGYxIiwidCI6ImRlYWNhOWI3LWUzMTktNDI1MS1iZTQ2LTU4MWNmODI5ODFkMiJ9&pageName=eb66d4fc4039890c900e)
 
